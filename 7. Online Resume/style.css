@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    color: #333;
+}
+header {
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+margin: 0;
+font-size: 24px;
+}
+
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin: 0 0 10px 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  Feel free to customize the colors, fonts, and other styles according to your preferences. You can add this CSS code in a separate file (e.g., style.css) and link it in the head section of your HTML document using the <link> tag:
+  
+  html
+  Copy code
+  <link rel="stylesheet" href="style.css" />
+  Remember to adjust the file path if your CSS file is in a different directory.
+  
+  
+  
+  
+  
+  
+  
